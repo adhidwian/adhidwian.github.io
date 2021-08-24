@@ -1,0 +1,28 @@
+@font-face {
+  font-family: unex;
+  src: url("font/unexpectedly-webfont.woff");
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #d2fcff;
+}
+
+#projects {
+  background-color: #d2fcff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.brand {
+  text-decoration: none;
+  color: white;
+  font-family: unex;
+  font-size: 40px;
+}
+
+.brand:hover {
+  color: red;
+}
